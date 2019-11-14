@@ -1,4 +1,5 @@
 import React, { Component } from "react"
+import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { getTracks, getArtists, selectedTrack } from "../service/tracksData.js"
@@ -115,6 +116,14 @@ class IndexPage extends Component {
             isPlaying={isPlaying}
             onNext={this.handleNext}
           />
+          <p>stonesthrow.com</p>
+          <a
+            className="link"
+            href="https://www.stonesthrow.com/"
+            target="_blank"
+          >
+            stonesthrow.com
+          </a>
         </div>
       </Layout>
     )

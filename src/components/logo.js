@@ -1,6 +1,6 @@
 import React from "react"
 
-const Logo = () => {
+const Logo = props => {
   return (
     <img
       alt="stones-throw-logo"
