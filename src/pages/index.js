@@ -1,5 +1,4 @@
 import React, { Component } from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { getTracks, getArtists, selectedTrack } from "../service/tracksData.js"
@@ -121,6 +120,7 @@ class IndexPage extends Component {
             className="link"
             href="https://www.stonesthrow.com/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             stonesthrow.com
           </a>
