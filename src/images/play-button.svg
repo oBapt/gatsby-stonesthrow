@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="416px" viewBox="0 0 375 416" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>play-button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play-button" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M21.712,415.346 C9.949,415.346 0.412,405.809 0.412,394.046 L0.412,21.299 C0.412,9.536 9.949,0 21.712,0 L367.834,191.697 C367.834,191.697 383.809,207.672 367.834,223.648 C351.859,239.622 21.712,415.346 21.712,415.346 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

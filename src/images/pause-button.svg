@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="363px" height="536px" viewBox="0 0 363 536" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pause-button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pause-button" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M145.6,516.278 C145.6,526.936 136.959,535.578 126.3,535.578 L20.15,535.578 C9.491,535.578 0.85,526.937 0.85,516.278 L0.85,19.3 C0.85,8.641 9.491,0 20.15,0 L126.3,0 C136.959,0 145.6,8.641 145.6,19.3 L145.6,516.278 Z" id="Path"></path>
+            <path d="M362.728,516.278 C362.728,526.936 354.087,535.578 343.428,535.578 L237.278,535.578 C226.619,535.578 217.978,526.937 217.978,516.278 L217.978,19.3 C217.978,8.641 226.619,0 237.278,0 L343.428,0 C354.087,0 362.728,8.641 362.728,19.3 L362.728,516.278 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
