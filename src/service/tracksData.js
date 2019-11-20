@@ -1207,8 +1207,8 @@ const tracks = [
     url: "https://www.youtube.com/watch?v=2m-I9Bh7m6Y",
   },
   {
-    artist: "7 Days Of Funk",
-    trackInfo: "7 Days Of Funk - D-F & Snoopzilla",
+    artist: "7 Days of Funk",
+    trackInfo: "7 Days of Funk - D-F & Snoopzilla",
     url: "https://www.youtube.com/watch?v=_boLyAb8WNw",
   },
   {
@@ -1310,6 +1310,51 @@ const tracks = [
     artist: "Chrome Canyon",
     trackInfo: "Chrome Canyon - Generations",
     url: "https://www.youtube.com/watch?v=j_k2rAOAMnk",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Couple Bars",
+    url: "https://www.youtube.com/watch?v=WxY9et9V9Bo",
+  },
+  {
+    artist: "Julian Malone",
+    trackInfo: "Julian Malone - 7Milli",
+    url: "https://www.youtube.com/watch?v=8T2kgeiNP48",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - Two Can Win",
+    url: "https://www.youtube.com/watch?v=jMu47CsLm0M",
+  },
+  {
+    artist: "Karriem Riggins",
+    trackInfo: "Karriem Riggins - Round The Outside (Alone Together)",
+    url: "https://www.youtube.com/watch?v=gaVhHlO0Dxo",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - VerbalSoulClapMania",
+    url: "https://www.youtube.com/watch?v=3Bk_Ai17dYU",
+  },
+  {
+    artist: "Chrome Canyon",
+    trackInfo: "Chrome Canyon - Pluze",
+    url: "https://www.youtube.com/watch?v=D0c5meGhSGA",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Illuminati",
+    url: "https://www.youtube.com/watch?v=EsNfgRrtzos",
+  },
+  {
+    artist: "Karriem Riggins",
+    trackInfo: "Karriem Riggins - Summer Madness",
+    url: "https://www.youtube.com/watch?v=MYciNjzMj_Q",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Sputnik",
+    url: "https://www.youtube.com/watch?v=cLqiRXg6X1U",
   },
 ]
 
