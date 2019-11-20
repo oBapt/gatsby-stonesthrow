@@ -1,5 +1,10 @@
 const tracks = [
   {
+    artist: "7 Days of Funk",
+    trackInfo: "7 Days of Funk - Snoop & Dam-Funk - Hit Da Pavement",
+    url: "https://www.youtube.com/watch?v=m06muswMot0",
+  },
+  {
     artist: "Grandmilly & Shozae",
     trackInfo: "Grandmilly & Shozae - Fool's Gold",
     url: "https://www.youtube.com/watch?v=4WzGHCJmB8A",
@@ -1092,6 +1097,64 @@ const tracks = [
     artist: "J Dilla",
     trackInfo: "J Dilla - The Twister (Huh,What) - Donuts",
     url: "https://www.youtube.com/watch?v=6K7u4WJRXgY",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - Don't Cry",
+    url: "https://www.youtube.com/watch?v=NHn-G_YpQB0",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Fat Belly",
+    url: "https://www.youtube.com/watch?v=S1lsX4-DL2Q",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman & Paul White",
+    url: "https://www.youtube.com/watch?v=V0ekf6Q-aXE",
+  },
+  {
+    artist: "Pyramid Vritra",
+    trackInfo: "Pyramid Vritra - Spool",
+    url: "https://www.youtube.com/watch?v=N37oWUBC-2M",
+  },
+  {
+    artist: "7 Days of Funk",
+    trackInfo:
+      "7 Days of Funk - Snoop & Dam-Funk - High Wit Me (Fourth Runner Up)",
+    url: "https://www.youtube.com/watch?v=fl6pnxig-S0",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Insecure Troubadour",
+    url: "https://www.youtube.com/watch?v=0BTGIjZhUt0",
+  },
+  {
+    artist: "7 Days of Funk",
+    trackInfo: "7 Days of Funk - Snoop & Dam-Funk - High Wit Me",
+    url: "https://www.youtube.com/watch?v=g-_TLRBlIp8",
+  },
+  {
+    artist: "7 Days Of Funk",
+    trackInfo: "7 Days Of Funk - High Wit Me (First Runner Up)",
+    url: "https://www.youtube.com/watch?v=jRzcyKC9-Y0",
+  },
+  {
+    artist: "7 Days of Funk",
+    trackInfo:
+      "7 Days of Funk - Snoop & Dam-Funk - High Wit Me (Second Runner Up)",
+    url: "https://www.youtube.com/watch?v=-MYwaXJUGMQ",
+  },
+  {
+    artist: "7 Days of Funk",
+    trackInfo:
+      "7 Days of Funk - Snoop & Dam-Funk - High Wit Me (Third Runner Up)",
+    url: "https://www.youtube.com/watch?v=NEinr64SlWw",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Bad Meaning Good",
+    url: "https://www.youtube.com/watch?v=Rf8QxMpKAM4",
   },
 ]
 
