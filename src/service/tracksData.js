@@ -1135,7 +1135,7 @@ const tracks = [
     url: "https://www.youtube.com/watch?v=g-_TLRBlIp8",
   },
   {
-    artist: "7 Days Of Funk",
+    artist: "7 Days of Funk",
     trackInfo: "7 Days Of Funk - High Wit Me (First Runner Up)",
     url: "https://www.youtube.com/watch?v=jRzcyKC9-Y0",
   },
