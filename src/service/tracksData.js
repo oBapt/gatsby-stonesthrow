@@ -1192,7 +1192,7 @@ const tracks = [
     url: "https://www.youtube.com/watch?v=CI2BdeYnUuc",
   },
   {
-    artist: "Little Harry",
+    artist: "Dub Club",
     trackInfo: "Little Harry - Revolution - Dub Club",
     url: "https://www.youtube.com/watch?v=f0bGjRfcY7Y",
   },
@@ -1220,6 +1220,96 @@ const tracks = [
     artist: "Vex Ruffin",
     trackInfo: "Vex Ruffin - Living For The Future",
     url: "https://www.youtube.com/watch?v=FF2mXffrKP8",
+  },
+  {
+    artist: "Boardwalk",
+    trackInfo: "Boardwalk - High Water",
+    url: "https://www.youtube.com/watch?v=EaRukQ3g8gw",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Moving Pictures",
+    url: "https://www.youtube.com/watch?v=h8SyClHeRa4",
+  },
+  {
+    artist: "Dub Club",
+    trackInfo: "Prince Jazzbo - Black Shadow - Dub Club",
+    url: "https://www.youtube.com/watch?v=EMRhP8qsMPk",
+  },
+  {
+    artist: "Anika",
+    trackInfo: "Anika - In The City",
+    url: "https://www.youtube.com/watch?v=AiOTP2RpvDg",
+  },
+  {
+    artist: "Myron & E",
+    trackInfo: "Myron & E - Do It Do It Disco",
+    url: "https://www.youtube.com/watch?v=PdlRxByX56s",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Catchin' The Vibe",
+    url: "https://www.youtube.com/watch?v=TVbrpJ13emo",
+  },
+  {
+    artist: "Myron & E",
+    trackInfo: "Myron & E - Cold Game (Live In Studio)",
+    url: "https://www.youtube.com/watch?v=tUddsLpG7wA",
+  },
+  {
+    artist: "CX KIDTRONIK",
+    trackInfo: "CX KIDTRONIK - A WEAPON",
+    url: "https://www.youtube.com/watch?v=LJltNK-qBlA",
+  },
+  {
+    artist: "Dub Club",
+    trackInfo: "JOSEY WALES - HARD TIME - Dub Club",
+    url: "https://www.youtube.com/watch?v=FS0i32-OaI0",
+  },
+  {
+    artist: "Myron & E",
+    trackInfo: "Myron & E - On Broadway",
+    url: "https://www.youtube.com/watch?v=WCiF-ndqXv8",
+  },
+  {
+    artist: "Dub Club",
+    trackInfo: "TIPPA LEE - MR. BIG MAN - Dub Club",
+    url: "https://www.youtube.com/watch?v=-6fzMfVl9EE",
+  },
+  {
+    artist: "CX KIDTRONIK",
+    trackInfo: "CX KiDTRONiK - LET'S GO KRAZY (Atari Teenage Riot Mix)",
+    url: "https://www.youtube.com/watch?v=TdzFl8oq08M",
+  },
+  {
+    artist: "Myron & E",
+    trackInfo: "Myron & E - If I Gave You My Love",
+    url: "https://www.youtube.com/watch?v=NJOIELtziPk",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Planned Attack",
+    url: "https://www.youtube.com/watch?v=_0sPtj57inQ",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Peace & Love",
+    url: "https://www.youtube.com/watch?v=wYbtv_uBXEE",
+  },
+  {
+    artist: "Anika",
+    trackInfo: "Anika - I Go To Sleep",
+    url: "https://www.youtube.com/watch?v=nohvkBvkKRs",
+  },
+  {
+    artist: "The Lions",
+    trackInfo: "The Lions - Roll It Round",
+    url: "https://www.youtube.com/watch?v=lbeDY7BIvgY",
+  },
+  {
+    artist: "Chrome Canyon",
+    trackInfo: "Chrome Canyon - Generations",
+    url: "https://www.youtube.com/watch?v=j_k2rAOAMnk",
   },
 ]
 
