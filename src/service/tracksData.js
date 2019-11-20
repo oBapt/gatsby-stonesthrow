@@ -1156,6 +1156,71 @@ const tracks = [
     trackInfo: "Homeboy Sandman - Bad Meaning Good",
     url: "https://www.youtube.com/watch?v=Rf8QxMpKAM4",
   },
+  {
+    artist: "Jonwayne",
+    trackInfo: "Jonwayne - How to Be a Gemini",
+    url: "https://www.youtube.com/watch?v=-oC8r7a-DdE",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Art of Forgetting",
+    url: "https://www.youtube.com/watch?v=jXgLUNGUNuc",
+  },
+  {
+    artist: "Pyramid Vritra",
+    trackInfo: "Pyramid Vritra - Tea And Lemonade",
+    url: "https://www.youtube.com/watch?v=VMCPNiv2nsY",
+  },
+  {
+    artist: "7 Days of Funk",
+    trackInfo: "7 Days of Funk - Dam Funk & Snoopzilla - I'll Be There 4U",
+    url: "https://www.youtube.com/watch?v=V8qeincu7Qk",
+  },
+  {
+    artist: "Duppy Gun",
+    trackInfo: "Duppy Gun - G Sudden and Bookfa in Jamaica",
+    url: "https://www.youtube.com/watch?v=TPVR0B42b9I",
+  },
+  {
+    artist: "Jonwayne",
+    trackInfo: "Jonwayne - The Come Up - ft. Scoop DeVille",
+    url: "https://www.youtube.com/watch?v=9P9pw3kawpw",
+  },
+  {
+    artist: "Jonwayne",
+    trackInfo: "Jonwayne - The Come Up PT. 2 - Live at Low End Theory",
+    url: "https://www.youtube.com/watch?v=CI2BdeYnUuc",
+  },
+  {
+    artist: "Little Harry",
+    trackInfo: "Little Harry - Revolution - Dub Club",
+    url: "https://www.youtube.com/watch?v=f0bGjRfcY7Y",
+  },
+  {
+    artist: "7 Days of Funk",
+    trackInfo: "7 Days of Funk - Dam-Funk & Snoop - Faden Away",
+    url: "https://www.youtube.com/watch?v=MHo3HwUb5D0",
+  },
+  {
+    artist: "Duppy Gun",
+    trackInfo: "Duppy Gun on Recording in Jamaica",
+    url: "https://www.youtube.com/watch?v=2m-I9Bh7m6Y",
+  },
+  {
+    artist: "7 Days Of Funk",
+    trackInfo: "7 Days Of Funk - D-F & Snoopzilla",
+    url: "https://www.youtube.com/watch?v=_boLyAb8WNw",
+  },
+  {
+    artist: "Jonwayne",
+    trackInfo: "Jonwayne - Curious (Cassette 2)",
+    url: "https://www.youtube.com/watch?v=rAKwAHgTZMY",
+  },
+  {
+    artist: "Vex Ruffin",
+    trackInfo: "Vex Ruffin - Living For The Future",
+    url: "https://www.youtube.com/watch?v=FF2mXffrKP8",
+  },
 ]
 
 const findArtists = tracks.map(t => t.artist)
