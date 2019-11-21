@@ -1356,6 +1356,116 @@ const tracks = [
     trackInfo: "Homeboy Sandman - Sputnik",
     url: "https://www.youtube.com/watch?v=cLqiRXg6X1U",
   },
+  {
+    artist: "Jonti",
+    trackInfo: "Jonti - Saturday Night",
+    url: "https://www.youtube.com/watch?v=8ylcJjlCnTE",
+  },
+  {
+    artist: "The Lions",
+    trackInfo: "The Lions - This Generation",
+    url: "https://www.youtube.com/watch?v=-jtU1vOktSY",
+  },
+  {
+    artist: "Vex Ruffin",
+    trackInfo: "Vex Ruffin - Crash Course",
+    url: "https://www.youtube.com/watch?v=nLiZT7Aauf8",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Whatchu Want From Me",
+    url: "https://www.youtube.com/watch?v=jPYDGNEYr1k",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Sweet Salvation",
+    url: "https://www.youtube.com/watch?v=N-E3NE6XGQ4",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Not Really",
+    url: "https://www.youtube.com/watch?v=yhe-eYHQgXA",
+  },
+  {
+    artist: "Dam-Funk",
+    trackInfo: "Dam-Funk - I Don't Wanna Be A Star!",
+    url: "https://www.youtube.com/watch?v=NjffUs1HbrI",
+  },
+  {
+    artist: "Chrome Canyon",
+    trackInfo: "Chrome Canyon - Branches",
+    url: "https://www.youtube.com/watch?v=16As-IqKSuQ",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman: FOUNDATION Pt. 2",
+    url: "https://www.youtube.com/watch?v=avRw-3aU3EQ",
+  },
+  {
+    artist: "Strong Arm Steady",
+    trackInfo: "Strong Arm Steady - Classic",
+    url: "https://www.youtube.com/watch?v=279XK6zws54",
+  },
+  {
+    artist: "Chrome Canyon",
+    trackInfo: "Chrome Canyon - Memories of a Scientist",
+    url: "https://www.youtube.com/watch?v=HMcz1Cva5vk",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman: FOUNDATION Pt. 1",
+    url: "https://www.youtube.com/watch?v=aQlM99HNL80",
+  },
+  {
+    artist: "Strong Arm Steady & Statik Selektah",
+    trackInfo: "Strong Arm Steady & Statik Selektah - Premium",
+    url: "https://www.youtube.com/watch?v=rEdpMk5F0HA",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - I Do Whatever I Want",
+    url: "https://www.youtube.com/watch?v=FrJluVLDxNw",
+  },
+  {
+    artist: "Jonti",
+    trackInfo: "Jonti - Nightshift In Blue",
+    url: "https://www.youtube.com/watch?v=_MJNjRAkRfE",
+  },
+  {
+    artist: "Dave Dub",
+    trackInfo: "Dave Dub - Superfly",
+    url: "https://www.youtube.com/watch?v=GdvY3uq7RIY",
+  },
+  {
+    artist: "Quakers",
+    trackInfo: "Quakers - Fitta Happier",
+    url: "https://www.youtube.com/watch?v=oNb7DwiklZg",
+  },
+  {
+    artist: "Quakers",
+    trackInfo: "Quakers - Smoke feat. Jonwayne",
+    url: "https://www.youtube.com/watch?v=d3EhoaHo-sM",
+  },
+  {
+    artist: "M.E.D.",
+    trackInfo: "M.E.D. feat. Hodgy Beats - Outta Control",
+    url: "https://www.youtube.com/watch?v=hFowz5b5GLM",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Hold Your Head",
+    url: "https://www.youtube.com/watch?v=UNyLT_quNVo",
+  },
+  {
+    artist: "Gary Wilson",
+    trackInfo: "Gary Wilson - Music For Drums (1994)",
+    url: "https://www.youtube.com/watch?v=li7WxOjuKHo",
+  },
+  {
+    artist: "Quakers",
+    trackInfo: "Quakers - Russia with Love",
+    url: "https://www.youtube.com/watch?v=J5R4T0yW5_4",
+  },
 ]
 
 const findArtists = tracks.map(t => t.artist)
