@@ -1466,6 +1466,173 @@ const tracks = [
     trackInfo: "Quakers - Russia with Love",
     url: "https://www.youtube.com/watch?v=J5R4T0yW5_4",
   },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - Mine All Mine",
+    url: "https://www.youtube.com/watch?v=9U-HK9d_CzA",
+  },
+  {
+    artist: "Homeboy Sandman",
+    trackInfo: "Homeboy Sandman - The Miracle",
+    url: "https://www.youtube.com/watch?v=7xZcXEbU_Uw",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - You Make Me Smile",
+    url: "https://www.youtube.com/watch?v=0j3em6RhvnQ",
+  },
+  {
+    artist: "Tony Cook",
+    trackInfo: "Tony Cook feat. Dam Funk - What's On Your Mind?",
+    url: "https://www.youtube.com/watch?v=DITCEPF5IHk",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Shadows On Behalf",
+    url: "https://www.youtube.com/watch?v=I4R7XzpOhCw",
+  },
+  {
+    artist: "M.E.D.",
+    trackInfo: "M.E.D. - War & Love, feat. Oh No",
+    url: "https://www.youtube.com/watch?v=6idlGXj7BD4",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Suburban Dream",
+    url: "https://www.youtube.com/watch?v=DwvA4t6NBak",
+  },
+  {
+    artist: "Vex Ruffin",
+    trackInfo: "Vex Ruffin - Man With A Plan",
+    url: "https://www.youtube.com/watch?v=oviOmyVGeNM",
+  },
+  {
+    artist: "Dam-Funk",
+    trackInfo:
+      "Dam-Funk & Master Blazter Live at Stones Throw's Direct to Disc #3",
+    url: "https://www.youtube.com/watch?v=ip83JHvzLBc",
+  },
+  {
+    artist: "Gary Wilson",
+    trackInfo: "Gary Wilson - Music For Piano (1994)",
+    url: "https://www.youtube.com/watch?v=7W1Kh_yaoBw",
+  },
+  {
+    artist: "M.E.D.",
+    trackInfo: "M.E.D. - Blaxican",
+    url: "https://www.youtube.com/watch?v=X0RvPfxRPig",
+  },
+  {
+    artist: "Jonti",
+    trackInfo: "Dungeon Sessions: Jonti - Hornet's Nest",
+    url: "https://www.youtube.com/watch?v=anXc6WwK1bY",
+  },
+  {
+    artist: "Anika",
+    trackInfo: "Anika - Terry",
+    url: "https://www.youtube.com/watch?v=a8Kd6cgBatg",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - U-Love (Donuts)",
+    url: "https://www.youtube.com/watch?v=zwTyR6_kLjY",
+  },
+  {
+    artist: "Vex Ruffin",
+    trackInfo: "Vex Ruffin - I'm Creative",
+    url: "https://www.youtube.com/watch?v=aSs4oPgPcPg",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - Green Lights",
+    url: "https://www.youtube.com/watch?v=9fbxTFevdAE",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Low Class Conspiracy",
+    url: "https://www.youtube.com/watch?v=Z73FthAvt34",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - Last Donut of the Night",
+    url: "https://www.youtube.com/watch?v=fC3Cthm0HFU",
+  },
+  {
+    artist: "Jaylib",
+    trackInfo: "Jaylib - The Heist",
+    url: "https://www.youtube.com/watch?v=XuVCHQjsQ0g",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - Strange Ways",
+    url: "https://www.youtube.com/watch?v=uSxlZQUqVPY",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Bus Ride",
+    url: "https://www.youtube.com/watch?v=3S6Bgqaqv-o",
+  },
+  {
+    artist: "James Pants",
+    trackInfo: "James Pants - Clouds Over The Pacific",
+    url: "https://www.youtube.com/watch?v=BUWq_hzKB0U",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - Fancy Clown",
+    url: "https://www.youtube.com/watch?v=IeqpRI5p5dI",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - Lightworks",
+    url: "https://www.youtube.com/watch?v=xLf6hzkeXbg",
+  },
+  {
+    artist: "James Pants",
+    trackInfo: "James Pants - The Occult (Jean-Pierre Caner)",
+    url: "https://www.youtube.com/watch?v=WsATvPmsZn4",
+  },
+  {
+    artist: "Madlib",
+    trackInfo: "Madlib - Falling (Jovan Jimenez)",
+    url: "https://www.youtube.com/watch?v=Uz_X3dIa1ho",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - Fancy Clown",
+    url: "https://www.youtube.com/watch?v=NYpXwlGT7XE",
+  },
+  {
+    artist: "Koushik",
+    trackInfo: "Koushik - Morning Comes (Niko/Calor Films)",
+    url: "https://www.youtube.com/watch?v=lzPNUY-DqgE",
+  },
+  {
+    artist: "Gary Wilson",
+    trackInfo: "Gary Wilson - Electric Depression (Alex Saylor)",
+    url: "https://www.youtube.com/watch?v=gLtTKGkSakQ",
+  },
+  {
+    artist: "CX KIDTRONIK",
+    trackInfo: "CX KIDTRONIK - SHE'S A MURDERER",
+    url: "https://www.youtube.com/watch?v=V0deRfGvd54",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - Geek Down",
+    url: "https://www.youtube.com/watch?v=70SwRaTFgHM",
+  },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Live at Direct to Disc #2",
+    url: "https://www.youtube.com/watch?v=kb6H7KfgXs0",
+  },
+  {
+    artist: "Gary WIlson",
+    trackInfo:
+      "Gary WIlson - Linda Wants to Be Alone (Live at Direct to Disc #2)",
+    url: "https://www.youtube.com/watch?v=G1rZuSGcd-Q",
+  },
 ]
 
 const findArtists = tracks.map(t => t.artist)
