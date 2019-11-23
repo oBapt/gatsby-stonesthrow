@@ -1867,7 +1867,7 @@ const tracks = [
     url: "https://www.youtube.com/watch?v=S53cOe51W-s",
   },
   {
-    artist: "James Pant",
+    artist: "James Pants",
     trackInfo: "James Pants - We're Through",
     url: "https://www.youtube.com/watch?v=qvErrmMZNVY",
   },
