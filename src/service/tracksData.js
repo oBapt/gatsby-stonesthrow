@@ -1785,6 +1785,187 @@ const tracks = [
     trackInfo: "Mayer Hawthorne - Thin Moon",
     url: "https://www.youtube.com/watch?v=Uy9fLe2umhY",
   },
+  {
+    artist: "Dam-Funk",
+    trackInfo:
+      "Dam-Funk - I Wanna Thank U 4 Steppin' Into My Life (Piano Version)",
+    url: "https://www.youtube.com/watch?v=KMfIXuSVRek",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - One Track Mind",
+    url: "https://www.youtube.com/watch?v=9tLkFMPaPzU",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - I Wish It Would Rain",
+    url: "https://www.youtube.com/watch?v=JYHYAwvdHzY",
+  },
+  {
+    artist: "Dam-Funk",
+    trackInfo: "Dam-Funk - Mirrors",
+    url: "https://www.youtube.com/watch?v=9TYf_qrw2WQ",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Green Eyed Love",
+    url: "https://www.youtube.com/watch?v=0Ijx-YtbYLg",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Green Eyed Love (Classixx Remix)",
+    url: "https://www.youtube.com/watch?v=9cruIgTuncY",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Love Is All Right (4-inch vinyl)",
+    url: "https://www.youtube.com/watch?v=gIVsKzjuPMA",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Maybe So Maybe No",
+    url: "https://www.youtube.com/watch?v=mpfcydeSGeo",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne Barbershop Quartet",
+    url: "https://www.youtube.com/watch?v=dtvAZjIrKgE",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Just Ain't Gonna Work Out",
+    url: "https://www.youtube.com/watch?v=pBKx8PyE5qQ",
+  },
+  {
+    artist: "Madlib",
+    trackInfo: "Madlib Lootpack - Crate Diggin'",
+    url: "https://www.youtube.com/watch?v=_0LW8lKRp4Q",
+  },
+  {
+    artist: "Madlib",
+    trackInfo: "Madlib - For my Mans",
+    url: "https://www.youtube.com/watch?v=XOu8jK7bLUM",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Closer ft. MF DOOM",
+    url: "https://www.youtube.com/watch?v=KDDeNtlNTvg",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Low Class Conspiracy",
+    url: "https://www.youtube.com/watch?v=iEHRz_4ROLQ",
+  },
+  {
+    artist: "Jaylib",
+    trackInfo: "Jaylib - The Official",
+    url: "https://www.youtube.com/watch?v=kBzoPvOAsuI",
+  },
+  {
+    artist: "Dam-Funk",
+    trackInfo: "Dam-Funk - Toeachizown",
+    url: "https://www.youtube.com/watch?v=S53cOe51W-s",
+  },
+  {
+    artist: "James Pant",
+    trackInfo: "James Pants - We're Through",
+    url: "https://www.youtube.com/watch?v=qvErrmMZNVY",
+  },
+  {
+    artist: "James Pants",
+    trackInfo: "James Pants - Cosmic Rapp",
+    url: "https://www.youtube.com/watch?v=4pPllLhQ7BU",
+  },
+  {
+    artist: "Lootpack",
+    trackInfo: "Madlib / Lootpack - Hityawitdat",
+    url: "https://www.youtube.com/watch?v=rRxdyftPVeo",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - Accordion",
+    url: "https://www.youtube.com/watch?v=rpaonSDPw7Y",
+  },
+  {
+    artist: "Lootpack",
+    trackInfo: "Lootpack - Whenimondamic",
+    url: "https://www.youtube.com/watch?v=e_EK3uYTIN0",
+  },
+  {
+    artist: "Yesterdays New Quintet",
+    trackInfo: "Yesterdays New Quintet - Solar Waves",
+    url: "https://www.youtube.com/watch?v=6s4PnaaaxpU",
+  },
+  {
+    artist: "Madlib",
+    trackInfo: "Madlib - Beat Konducta in India",
+    url: "https://www.youtube.com/watch?v=HZ_MYIljuIs",
+  },
+  {
+    artist: "Jaylib",
+    trackInfo: "Jaylib - Mcnasty Filth",
+    url: "https://www.youtube.com/watch?v=07BHMfw6lTI",
+  },
+  {
+    artist: "Percee P",
+    trackInfo: "Percee P - Put it on the Line",
+    url: "https://www.youtube.com/watch?v=MxuHQPMD7AE",
+  },
+  {
+    artist: "Madlib",
+    trackInfo: "Madlib - Slim's Return",
+    url: "https://www.youtube.com/watch?v=apN0AXjJxQE",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Rappcats",
+    url: "https://www.youtube.com/watch?v=ECGcQ6_Fj0Y",
+  },
+  {
+    artist: "Quasimoto",
+    trackInfo: "Quasimoto - Come on Feet",
+    url: "https://www.youtube.com/watch?v=2_5edxArGT8",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - Buskingh",
+    url: "https://www.youtube.com/watch?v=rLFZdexQ-NM",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - Rhinestone Cowboy",
+    url: "https://www.youtube.com/watch?v=s4iR668Ki3I",
+  },
+  {
+    artist: "M.E.D.",
+    trackInfo: "M.E.D. - Push",
+    url: "https://www.youtube.com/watch?v=mtgsWg5zjiU",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - All Caps",
+    url: "https://www.youtube.com/watch?v=ewc1hixzYPY",
+  },
+  {
+    artist: "James Pants",
+    trackInfo: "James Pants - Do A Couple Of Things",
+    url: "https://www.youtube.com/watch?v=d63FTZcImcU",
+  },
+  {
+    artist: "Madvillain",
+    trackInfo: "Madvillain - Monkey Suite",
+    url: "https://www.youtube.com/watch?v=nzUY6Iiur6E",
+  },
+  {
+    artist: "Madlib",
+    trackInfo: "Madlib - Take It Back",
+    url: "https://www.youtube.com/watch?v=Jd1m3Zai97A",
+  },
+  {
+    artist: "J Dilla",
+    trackInfo: "J Dilla - Nothing Like This",
+    url: "https://www.youtube.com/watch?v=_ncSt5xC8Uk",
+  },
 ]
 
 const findArtists = tracks.map(t => t.artist)
