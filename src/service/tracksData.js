@@ -1633,6 +1633,158 @@ const tracks = [
       "Gary WIlson - Linda Wants to Be Alone (Live at Direct to Disc #2)",
     url: "https://www.youtube.com/watch?v=G1rZuSGcd-Q",
   },
+  {
+    artist: "The Stepkids",
+    trackInfo: "The Stepkids - Wonderfox",
+    url: "https://www.youtube.com/watch?v=1rAHVkEeC-4",
+  },
+  {
+    artist: "Anika",
+    trackInfo: "Anika - No One's There",
+    url: "https://www.youtube.com/watch?v=UgCuK0hLQ5Q",
+  },
+  {
+    artist: "J Rocc",
+    trackInfo: "J.Rocc - Play This Also",
+    url: "https://www.youtube.com/watch?v=Zeoe-nhqyWU",
+  },
+  {
+    artist: "Vex Ruffin",
+    trackInfo: "Vex Ruffin - Losing Control",
+    url: "https://www.youtube.com/watch?v=NQWntkvYmmw",
+  },
+  {
+    artist: "Jonti",
+    trackInfo: "Jonti - Firework Spraying Moon",
+    url: "https://www.youtube.com/watch?v=GHfs8s-gjcg",
+  },
+  {
+    artist: "Bryant K",
+    trackInfo: "Bryant K - Daisies Grow",
+    url: "https://www.youtube.com/watch?v=KamqxWtwzgU",
+  },
+  {
+    artist: "J Rocc",
+    trackInfo: "J Rocc - Stay Fresh",
+    url: "https://www.youtube.com/watch?v=qTc0r5L8DM4",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - Loving You Is Killing Me",
+    url: "https://www.youtube.com/watch?v=_yJuyaVcL2I",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - Studio Take Outs",
+    url: "https://www.youtube.com/watch?v=aKyiPloOQHc",
+  },
+  {
+    artist: "Anika",
+    trackInfo: "Anika Rehearsal",
+    url: "https://www.youtube.com/watch?v=-RKD8CCVIJs",
+  },
+  {
+    artist: "M.E.D.",
+    trackInfo: "M.E.D. feat. Aloe Blacc - Where I'm From",
+    url: "https://www.youtube.com/watch?v=T_X8AEHH15E",
+  },
+  {
+    artist: "Dam-Funk",
+    trackInfo: "Steve Arrington + Dam Funk + Stones Throw",
+    url: "https://www.youtube.com/watch?v=VBvLLXG9Qc4",
+  },
+  {
+    artist: "Dam-Funk",
+    trackInfo: "Dam-Funk - Hood Pass Intact",
+    url: "https://www.youtube.com/watch?v=Fcdpi16NfrY",
+  },
+  {
+    artist: "Strong Arm Steady",
+    trackInfo: "Strong Arm Steady - Cheeba Cheeba",
+    url: "https://www.youtube.com/watch?v=3cCTbFqbbZE",
+  },
+  {
+    artist: "Anika",
+    trackInfo: "Anika - Yang Yang",
+    url: "https://www.youtube.com/watch?v=CXstxFoayxI",
+  },
+  {
+    artist: "Strong Arm Steady",
+    trackInfo: "Strong Arm Steady - Chittlins & Pepsi",
+    url: "https://www.youtube.com/watch?v=V3_6vfQHTeo",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - I NEED YOU",
+    url: "https://www.youtube.com/watch?v=8eQbHE4prS0",
+  },
+  {
+    artist: "M.E.D.",
+    trackInfo: "M.E.D. - MEDical Card",
+    url: "https://www.youtube.com/watch?v=xAWaNoyt4EI",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Your Easy Lovin' Ain't Pleasin' Nothin'",
+    url: "https://www.youtube.com/watch?v=RAxBdYM8opg",
+  },
+  {
+    artist: "Bruce Haack",
+    trackInfo:
+      "Bruce Haack - Party Machine (Prince Language's Afterparty Edit)",
+    url: "https://www.youtube.com/watch?v=fVRpXGGS8DQ",
+  },
+  {
+    artist: "Strong Arm Steady",
+    trackInfo:
+      "Strong Arm Steady feat SICK JACKEN - PRESSURE - Prod. by MADLIB",
+    url: "https://www.youtube.com/watch?v=3odUDZafE1I",
+  },
+  {
+    artist: "Arabian Prince",
+    trackInfo: "Arabian Prince - LETS HIT THE BEACH (CX KIDTRONIK REMIX)",
+    url: "https://www.youtube.com/watch?v=jFzfJfqfpOE",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - Loving You Is Killing Me (Live in Studio)",
+    url: "https://www.youtube.com/watch?v=Ufz4i4NeeaE",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - I Need a Dollar (Live in Studio)",
+    url: "https://www.youtube.com/watch?v=lDyUhI1ArPo",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - I Left My Heart in San Francisco",
+    url: "https://www.youtube.com/watch?v=_tLY1s9p8VU",
+  },
+  {
+    artist: "James Pants",
+    trackInfo: "James Pants - Thin Moon",
+    url: "https://www.youtube.com/watch?v=w-h3ExiuZv4",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - I Need A Dollar",
+    url: "https://www.youtube.com/watch?v=iR6oYX1D-0w",
+  },
+  {
+    artist: "Aloe Blacc",
+    trackInfo: "Aloe Blacc - Find a Way",
+    url: "https://www.youtube.com/watch?v=v23r1pwK-44",
+  },
+  {
+    artist: "Strong Arm Steady",
+    trackInfo: "Strong Arm Steady - Best of Times feat. Phonte",
+    url: "https://www.youtube.com/watch?v=1JEDUqFEZHE",
+  },
+  {
+    artist: "Mayer Hawthorne",
+    trackInfo: "Mayer Hawthorne - Thin Moon",
+    url: "https://www.youtube.com/watch?v=Uy9fLe2umhY",
+  },
 ]
 
 const findArtists = tracks.map(t => t.artist)
