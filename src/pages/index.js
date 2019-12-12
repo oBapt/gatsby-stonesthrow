@@ -92,7 +92,7 @@ class IndexPage extends Component {
 
     return (
       <Layout>
-        <SEO title="Home" />
+        <SEO title="Stones Throw TV" />
         <div className="container">
           <YouTubePlayer
             url={url}
