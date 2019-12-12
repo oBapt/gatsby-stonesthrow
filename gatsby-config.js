@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Stones Throw TV`,
+    description: `Stones Throw TV allows you to watch all the music videos made by Stones Throw Records artists. `,
+    author: `Olivier Baptistan`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
