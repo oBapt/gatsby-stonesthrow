@@ -8,9 +8,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
         trackingId: "UA-154456175-1",
+        // this option places the tracking script into the head of the DOM
         head: true,
+        // other options
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -26,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `Stones Throw TV`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
